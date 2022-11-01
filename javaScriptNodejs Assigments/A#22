@@ -1,0 +1,5 @@
+// Muhammad Imran Mangral
+//   Date: 02/10/2022
+// Assignment # 22
+var guestList = ["AbuBakar", "Umar", "Usman"]
+console.log(guestList[44])

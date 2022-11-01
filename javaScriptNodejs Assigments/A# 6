@@ -1,0 +1,3 @@
+var perName = "\t\nMuhammad Imran Mangral\t\n";
+console.log(perName);
+console.log(perName.trimStart().trimEnd());
